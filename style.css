@@ -1,0 +1,28 @@
+* {
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+.section1 {
+    float:left;
+    width:25%;
+    
+    padding:10px;
+}
+
+h1 {
+    background-color: aqua;
+    
+    text-align:center;
+}
+p {
+    text-align:justify;
+    padding-top:10px;
+    background-color: teal;
+}
+h1:hover {
+    background-color: blueviolet;
+}
+p:hover {
+    background-color: tomato;
+}
